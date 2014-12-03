@@ -1,0 +1,10 @@
+1 1 1
+1.0 cilindrico
+1.0 conico
+1.0 esfericoAco
+1.0 esfericoTit
+2.0 cilindrico
+3.0 conico
+4.0 esfericoAco
+5.0 esfericoTit
+15.6 fim
